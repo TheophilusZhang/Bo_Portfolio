@@ -14,6 +14,7 @@ My Data Analytics/Machine Learning Projects
 # [Analyzing bike-share business user trends](https://github.com/TheophilusZhang/R_cyclistic_user_analysis/blob/main/google-analytics-capstone-project-cyclistic.ipynb)
 *	Clean, wrangle and visualize data with R to identify usage trends between users of a bike-share business. 
 *	Write summary reports for stakeholders to improve the business problem
+# Other raw codes
 # [Detecting cardiological disorder by machine learning](https://github.com/TheophilusZhang/Heart_disease/blob/main/Heartbeat.py)
 * Classifying heartbeat anomalies from stethoscope audio data with Python
 *	Smooth raw audio data and visualize the audio signal to create new "features" from raw data and score prediction accuracy with cross-validation
