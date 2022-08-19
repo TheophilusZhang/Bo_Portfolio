@@ -1,4 +1,4 @@
-# Bo_Portfolio
+# Bo Zhang's Portfolio
 My Data Analytics/Machine Learning Projects
 # [Analyzing risk and returns of investment in stock market](https://github.com/TheophilusZhang/Sharp_ratio_Datacamp/blob/main/sharp_ratio.ipynb)
 * Visualize and summarize data of daily stock prices of AMZN and FB vs. SPY in 2016. 
