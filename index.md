@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TheophilusZhang/Bo_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Bo Zhang's Portfolio
+My Data Analytics/Machine Learning Projects
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## [Analyzing risk and returns of investment in stock market](https://github.com/TheophilusZhang/Sharp_ratio_Datacamp/blob/main/sharp_ratio.ipynb)
+* Visualize and summarize data of daily stock prices of AMZN and FB vs. SPY in 2016. 
+* Used pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio and identified stocks to increase ROI by 2 folds
+## [Predicting Credit Card Approvals by Machine Learning](https://github.com/TheophilusZhang/datacamp_ML_credit_card/blob/main/ML_credit_card_approval.ipynb)
+* Preprocessed data such as scaling, label encoding, and missing value imputation with Python 
+* Predicted if an application for a credit card will be accepted by logistic regression on 690 applicants with 15 features
+*	Used grid search to find the best performing model and achieve more than 95% accuracy
+## [Optimizing online sports retail revenue](https://github.com/TheophilusZhang/SQL_online_revenue_Datacamp/blob/main/ecommerce_SQL.ipynb)
+*	Cleaned data of sales data of 3179 products of an online sports retail database with SQL
+*	Joined tables and aggregated them by brand and category, then identified an average 30% off discount raises sales by $1,724,335.82 in total revenue
+*	Analyzed correlation between customer reviews and revenue, product descriptions and seasonal effects.
+## [Analyzing bike-share business user trends](https://github.com/TheophilusZhang/R_cyclistic_user_analysis/blob/main/google-analytics-capstone-project-cyclistic.ipynb)
+*	Clean, wrangle and visualize data with R to identify usage trends between users of a bike-share business. 
+*	Write summary reports for stakeholders to improve the business problem
+# Other raw codes(Not Jupyter Notebook)
+### [Detecting cardiological disorder by machine learning](https://github.com/TheophilusZhang/Heart_disease/blob/main/Heartbeat.py)
+* Classifying heartbeat anomalies from stethoscope audio data with Python
+*	Smooth raw audio data and visualize the audio signal to create new "features" from raw data and score prediction accuracy with cross-validation
+### [Childhood autistic spectrum disorder screening by machine learning](https://github.com/TheophilusZhang/Autism/blob/main/Autism.py)
+* Build and deploy a neural network using the Keras to diagnose Autism based on behavioral features and individual characteristics of 292 patients
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheophilusZhang/Bo_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
