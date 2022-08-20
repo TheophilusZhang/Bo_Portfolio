@@ -14,7 +14,7 @@ My Data Analytics/Machine Learning Projects
 *	Joined tables and aggregated them by brand and category, then identified an average 30% off discount raises sales by $1,724,335.82 in total revenue
 *	Analyzed correlation between customer reviews and revenue, product descriptions and seasonal effects.
 ## [Analyzing bike-share business user trends](https://github.com/TheophilusZhang/R_cyclistic_user_analysis/blob/main/google-analytics-capstone-project-cyclistic.ipynb)
-*	Clean, wrangle and visualize data with *R* to identify usage trends between users of a bike-share business. 
+*	Clean, wrangle and visualize data with **R** to identify usage trends between users of a bike-share business. 
 *	Write summary reports for stakeholders to improve the business problem
 # Other raw codes(Not Jupyter Notebook)
 ### [Detecting cardiological disorder by machine learning](https://github.com/TheophilusZhang/Heart_disease/blob/main/Heartbeat.py)
