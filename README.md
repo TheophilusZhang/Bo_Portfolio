@@ -5,7 +5,7 @@ My Data Analytics/Machine Learning Projects
 * Used pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio and identified stocks to increase ROI by 2 folds
 
 ![](https://github.com/TheophilusZhang/Bo_Portfolio/blob/main/images/FB_APPL.png)
-## [Predicting Credit Card Approvals by Machine Learning](https://github.com/TheophilusZhang/datacamp_ML_credit_card/blob/main/ML_credit_card_approval.ipynb)
+## [Predicting credit card approvals by machine learning](https://github.com/TheophilusZhang/datacamp_ML_credit_card/blob/main/ML_credit_card_approval.ipynb)
 * Preprocessed data such as scaling, label encoding, and missing value imputation with Python 
 * Predicted if an application for a credit card will be accepted by logistic regression on 690 applicants with 15 features
 *	Used grid search to find the best performing model and achieve more than 95% accuracy
