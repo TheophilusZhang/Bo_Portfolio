@@ -1,8 +1,6 @@
 # Bo Zhang's Portfolio
 My Data Analytics/Machine Learning Projects
 
-```markdown
-
 ## [Analyzing risk and returns of investment in stock market](https://github.com/TheophilusZhang/Sharp_ratio_Datacamp/blob/main/sharp_ratio.ipynb)
 * Visualize and summarize data of daily stock prices of AMZN and FB vs. SPY in 2016. 
 * Used pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio and identified stocks to increase ROI by 2 folds
@@ -24,6 +22,5 @@ My Data Analytics/Machine Learning Projects
 ### [Childhood autistic spectrum disorder screening by machine learning](https://github.com/TheophilusZhang/Autism/blob/main/Autism.py)
 * Build and deploy a neural network using the Keras to diagnose Autism based on behavioral features and individual characteristics of 292 patients
 
-```
 
 
