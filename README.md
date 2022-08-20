@@ -3,6 +3,7 @@ My Data Analytics/Machine Learning Projects
 ## [Analyzing risk and returns of investment in stock market](https://github.com/TheophilusZhang/Sharp_ratio_Datacamp/blob/main/sharp_ratio.ipynb)
 * Visualize and summarize data of daily stock prices of AMZN and FB vs. SPY in 2016. 
 * Used pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio and identified stocks to increase ROI by 2 folds
+![](https://github.com/TheophilusZhang/Bo_Portfolio/blob/main/images/FB_APPL.png)
 ## [Predicting Credit Card Approvals by Machine Learning](https://github.com/TheophilusZhang/datacamp_ML_credit_card/blob/main/ML_credit_card_approval.ipynb)
 * Preprocessed data such as scaling, label encoding, and missing value imputation with Python 
 * Predicted if an application for a credit card will be accepted by logistic regression on 690 applicants with 15 features
