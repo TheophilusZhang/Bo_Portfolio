@@ -2,7 +2,7 @@
 * Visualize and summarize data of daily stock prices of AMZN and FB vs. SPY in 2016 with **Python**. 
 * Used pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio and identified stocks to increase ROI by 2 folds
 
-![](/images/FB_APPL.png)
+![](https://github.com/TheophilusZhang/Bo_Portfolio/blob/main/images/FB_APPL.png)
 ## [Predicting credit card approvals by machine learning](https://github.com/TheophilusZhang/datacamp_ML_credit_card/blob/main/ML_credit_card_approval.ipynb)
 * Preprocessed data such as scaling, label encoding, and missing value imputation with **Python** 
 * Predicted if an application for a credit card will be accepted by logistic regression on 690 applicants with 15 features
