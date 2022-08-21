@@ -1,9 +1,6 @@
-# Bo Zhang's Portfolio
-My Data Analytics/Machine Learning Projects
 ## [Analyzing risk and returns of investment in stock market](https://github.com/TheophilusZhang/Sharp_ratio_Datacamp/blob/main/sharp_ratio.ipynb)
 * Visualize and summarize data of daily stock prices of AMZN and FB vs. SPY in 2016 with **Python**. 
 * Used pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio and identified stocks to increase ROI by 2 folds
-
 ![](https://github.com/TheophilusZhang/Bo_Portfolio/blob/main/images/FB_APPL.png)
 ## [Predicting credit card approvals by machine learning](https://github.com/TheophilusZhang/datacamp_ML_credit_card/blob/main/ML_credit_card_approval.ipynb)
 * Preprocessed data such as scaling, label encoding, and missing value imputation with **Python** 
@@ -16,7 +13,7 @@ My Data Analytics/Machine Learning Projects
 ## [Analyzing bike-share business user trends](https://github.com/TheophilusZhang/R_cyclistic_user_analysis/blob/main/google-analytics-capstone-project-cyclistic.ipynb)
 *	Clean, wrangle and visualize data with **R** to identify usage trends between users of a bike-share business. 
 *	Write summary reports for stakeholders to improve the business problem
-# Other raw codes(Not Jupyter Notebook)
+## Other project codes
 ### [Detecting cardiological disorder by machine learning](https://github.com/TheophilusZhang/Heart_disease/blob/main/Heartbeat.py)
 * Classifying heartbeat anomalies from stethoscope audio data with **Python**
 *	Smooth raw audio data and visualize the audio signal to create new "features" from raw data and score prediction accuracy with cross-validation
