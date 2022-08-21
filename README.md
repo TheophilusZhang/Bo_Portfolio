@@ -1,6 +1,7 @@
 ## [Analyzing risk and returns of investment in stock market](https://github.com/TheophilusZhang/Sharp_ratio_Datacamp/blob/main/sharp_ratio.ipynb)
 * Visualize and summarize data of daily stock prices of AMZN and FB vs. SPY in 2016 with **Python**. 
 * Used pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio and identified stocks to increase ROI by 2 folds
+
 ![](/images/FB_APPL.png)
 ## [Predicting credit card approvals by machine learning](https://github.com/TheophilusZhang/datacamp_ML_credit_card/blob/main/ML_credit_card_approval.ipynb)
 * Preprocessed data such as scaling, label encoding, and missing value imputation with **Python** 
